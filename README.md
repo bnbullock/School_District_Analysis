@@ -30,7 +30,7 @@ Additionally, we are asked to prepare the same statistics above with marks for G
 
 ## Resources
 - Data Source: schools_complete.csv, students_complete.csv
-- Software: Python 3.8.5, Visual Studio Code 1.56.2
+- Software: Python 3.7.10, Visual Studio Code 1.56.2, Jupyter Notebook Server 6.3.0
 
 ## Summary Results
 
@@ -42,7 +42,11 @@ Additionally, we are asked to prepare the same statistics above with marks for G
 
 -Top 5 Performing Schools
 
+![Top Five Schools by Passing Rate](Resources/Images/sda_top5.png)
+
 -Bottom 5 Performing Schools
+
+![Bottom Five Schools by Passing Rate](Resources/Images/sda_bottom5.png)
 
 -Average Math score for each grade by School
 
@@ -64,7 +68,11 @@ Additionally, we are asked to prepare the same statistics above with marks for G
 
 -Top 5 Performing Schools
 
+![Top Five Schools by Passing Rate](Resources/Images/msda_top5.png)
+
 -Bottom 5 Performing Schools
+
+![Bottom Five Schools by Passing Rate](Resources/Images/msda_bottom5.png)
 
 -Average Math score for each grade by School
 
