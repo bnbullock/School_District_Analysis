@@ -1,8 +1,9 @@
-# School_District_Analysis
+# School District Data Analysis
 
 ## Project Overview
-Prepare analysis of a school district for use by board members for budgeting, forecasting and allocation of future funds to ensure schools are adequately funded.
+Prepare analysis of standardized test date to provide insight into performance trends and patterns within a school district. At the school and district level, the results will be used for discussions and strategic decisions. The analysis will further assist the school board and superintendant in making decisions regarding school budgets and priorities.
 
+## The following deliverables are required as part of the School District Analysis:
 1. Snapshot of the school district's key metrics
 2. Overview of the key metrics for each school
 3. Top 5 Schools based on passing rate
@@ -13,9 +14,9 @@ Prepare analysis of a school district for use by board members for budgeting, fo
 8. School performance based on school size
 9. School performance based on the type of school
 
-Additionally, we are asked to prepared the same above statistics without marks for Grade 9 students at Thomas High School due to a problem with academic honesty. As such, these students have had all there marks removed and a secondary analysis performed.
+## Additionally, we are asked to prepared the same statistics above with marks for Grade 9 students at Thomas High School removed due to a problem with academic honesty. We will then run the analysis again and compare the results.
 
-Deliverables with Grade 9 students from Thomas High School removed:
+## Deliverables with Grade 9 students from Thomas High School removed:
 1. Replace ninth grade reading and math scores for Thomas High School
 2. Snapshot of the school district's key metrics
 3. Overview of the key metrics for each school
