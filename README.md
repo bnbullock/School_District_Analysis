@@ -34,7 +34,7 @@ Additionally, we are asked to prepare the same statistics above with marks for G
 
 ## Summary Results
 
-## Baseline Analaysis of all Schools in the District
+### Baseline Analysis of all Schools in the District
 
 **School District Metrics**
 ![School District Metrics](Resources/Images/sda_DistrictSummary.png)
@@ -63,7 +63,7 @@ Additionally, we are asked to prepare the same statistics above with marks for G
 **Scores by School Type**
 ![Scores by School Type](Resources/Images/sda_ScoresbyType.png)
 
-## Modified Analaysis with the removal of Thomas High School grade 9 student marks
+### Modified Analysis with the removal of Thomas High School grade 9 student marks
 
 **Thomas High School Student marks removed**
 ![Change Grades to Nans](Resources/Images/msda_StudentNans.png)
