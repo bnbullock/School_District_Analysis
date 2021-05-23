@@ -121,15 +121,15 @@ It has also come to the attention of the school board that math and reading grad
     - For the School District Summary, the overall passing percentage moved down by 0.3%
     - For the School Summary, the overall passing percentage moved down by 0.3% for THS
     - THS was in the #2 ranked position of top ranked schools in the original analysis and maintained that same position in the modified analysis. The overall ranking was reduced by 0.3% comparatively.
-    - The following results were observed after reviewing the scoring reports:
+    - The following results were observed after reviewing the scoring metrics:
       - The math and reading scores by grade showed no observable changes
       - Scores by school spending showed no observable changes
       - Scores by school size showed no observable changes
       - Scores by school type showed no observable changes
 
-## District Analysis Summary
+## Overall Summary
 
-- In general, the 461 grade nine students from THS whose marks were removed from the data set represented 1.2% of all students in the district. This small group of students affected the analysis at the school and district level and produced results that indicated the overall performance of THS was reduced by 0.3%. When we reviewed the scoring reports, no changes were observed. 
+- In general, the 461 grade nine students from THS whose marks were removed from the data set represented 1.2% of all students in the district. This small group of students affected the analysis at the school and district level and produced results that indicated the overall metrics were reduced by 0.3% at the district, school and performance levels. When we reviewed the different scoring reports, no impacts were observed. 
 - The following conclusions can be drawn from the analysis with THS grade nine students removed:
   - For the entire district summary the overall passing percentage decreased by 0.3%
   - At the school level the overall passing percentage decreased by 0.3%
