@@ -127,7 +127,7 @@ Prepare analysis of standardized test data to provide insight into performance t
 
 ## District Analysis Summary
 
-- In general, the 461 grade nine students from THS whose marks were removed from the dataset represented 1.2% of all students in the district. The analysis at the school and district level produced results that indicated the overall performance of THS was reduced slightly. When we reviewed the condensed scoring reports, no changes were observed. 
+- In general, the 461 grade nine students from THS whose marks were removed from the dataset represented 1.2% of all students in the district. This small group of students affected the analysis at the school and district level and produced results that indicated the overall performance of THS was reduced slightly. When we reviewed the condensed scoring reports, no changes were observed. 
 - The following conclusions can be drawn from the analysis:
   - The performance of THS overall was reduced by 0.3%
   - Scores by school spending, grade, size and type remained exactly the same
