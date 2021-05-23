@@ -1,7 +1,9 @@
 # School District Data Analysis
 
 ## Project Overview
-Prepare analysis of standardized test data for a school board to be used for providing insight into performance trends and patterns within a school district. At the school and district level, the results will be used for discussions and strategic decisions. The analysis will further assist the school board and superintendant in making decisions regarding school budgets and priorities. It has also come to the attention of the school board that math and reading grades may have been altered in the source file for grade nine students at Thomas High School(THS). As such, we have been asked to perform the school district analysis as originally planned and also a second analysis with math and reading grades for grade nine removed for that specific school. A comparative analysis will be provided to determine the affect on the overall metrics of the school and district reports.  
+Prepare analysis of standardized test data for a school board to be used for providing insight into performance trends and patterns within a school district. At the school and district level, the results will be used for discussions and strategic decisions. The analysis will further assist the school board and superintendant in making decisions regarding school budgets and priorities. 
+
+It has also come to the attention of the school board that math and reading grades may have been altered in the source file for grade nine students at Thomas High School(THS). As such, we have been asked to perform the school district analysis as originally planned and also a second analysis with math and reading grades for grade nine removed for that specific school. A comparative analysis will be provided to determine the affect on the overall metrics of the school and district reports.  
 
 ## School District Analysis requirements:
 1. Snapshot of the school district's key metrics
@@ -118,7 +120,7 @@ Prepare analysis of standardized test data for a school board to be used for pro
 - The removal of the ninth grade reading and math grades at THS resulted in the following observations:
     - For the School District Summary, the overall passing percentage moved down by 0.3%
     - For the School Summary, the overall passing percentage moved down by 0.3% for THS
-    - THS was in the #2 position of top ranked schools in the original analysis and maintained that same position in the modified analysis. The overall ranking was reduced by 0.3% comparatively.
+    - THS was in the #2 ranked position of top ranked schools in the original analysis and maintained that same position in the modified analysis. The overall ranking was reduced by 0.3% comparatively.
     - The following results were observed after reviewing the scoring reports:
       - The math and reading scores by grade showed no observable changes
       - Scores by school spending showed no observable changes
@@ -127,8 +129,8 @@ Prepare analysis of standardized test data for a school board to be used for pro
 
 ## District Analysis Summary
 
-- In general, the 461 grade nine students from THS whose marks were removed from the dataset represented 1.2% of all students in the district. This small group of students affected the analysis at the school and district level and produced results that indicated the overall performance of THS was reduced slightly. When we reviewed the condensed scoring reports, no changes were observed. 
-- The following conclusions can be drawn from the analysis:
+- In general, the 461 grade nine students from THS whose marks were removed from the data set represented 1.2% of all students in the district. This small group of students affected the analysis at the school and district level and produced results that indicated the overall performance of THS was reduced by 0.3%. When we reviewed the scoring reports, no changes were observed. 
+- The following conclusions can be drawn from the analysis with THS grade nine students removed:
   - The performance of THS overall passing percentage was reduced by 0.3%
   - Scores by school spending, grade, size and type remained exactly the same
   - For the entire district summary the overall passing percentage decreased by 0.3%
