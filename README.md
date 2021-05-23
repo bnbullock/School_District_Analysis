@@ -1,7 +1,7 @@
 # School District Data Analysis
 
 ## Project Overview
-Prepare analysis of standardized test data to provide insight into performance trends and patterns within a school district. At the school and district level, the results will be used for discussions and strategic decisions. The analysis will further assist the school board and superintendant in making decisions regarding school budgets and priorities. It has also come to the attention of the school board that math and reading grades may have been altered in the source file for grade nine students at Thomas High School. As such, we have been asked to perform the school district analysis as originally planned and also a second analysis with math and reading grades for grade nine removed for that specific school. A comparative report will be provided to determine the affect on the overall analysis.  
+Prepare analysis of standardized test data to provide insight into performance trends and patterns within a school district. At the school and district level, the results will be used for discussions and strategic decisions. The analysis will further assist the school board and superintendant in making decisions regarding school budgets and priorities. It has also come to the attention of the school board that math and reading grades may have been altered in the source file for grade nine students at Thomas High School(THS). As such, we have been asked to perform the school district analysis as originally planned and also a second analysis with math and reading grades for grade nine removed for that specific school. A comparative report will be provided to determine the affect on the overall analysis.  
 
 ## School District Analysis requirements:
 1. Snapshot of the school district's key metrics
@@ -15,7 +15,7 @@ Prepare analysis of standardized test data to provide insight into performance t
 9. School performance based on the type of school
 
 ## Modified School District Analysis with 9th grade marks removed, requirements:
-1. Replace ninth grade reading and math scores for Thomas High School
+1. Replace ninth grade reading and math scores for THS
 2. Snapshot of the school district's key metrics
 3. Overview of the key metrics for each school
 4. Top 5 Schools based on passing rate
@@ -38,9 +38,9 @@ Prepare analysis of standardized test data to provide insight into performance t
 
 ![School District Metrics](Resources/Images/sda_DistrictSummary.png)
 
-- Summary by School
+- School Summary
 
-![School Summary Metrics](Resources/Images/sda_SchoolSummary.png)
+![School Summary](Resources/Images/sda_SchoolSummary.png)
 
 - Top 5 Performing Schools
 
@@ -70,9 +70,9 @@ Prepare analysis of standardized test data to provide insight into performance t
 
 ![Scores by School Type](Resources/Images/sda_ScoresbyType.png)
 
-### Modified Analysis with the removal of Thomas High School grade 9 student marks
+### Modified Analysis with the removal of THS grade 9 student marks
 
-- Thomas High School Grade 9 Student marks removed
+- Summary of THS Grade 9 Student with marks removed
 
 ![Change Grades to Nans](Resources/Images/msda_StudentNans.png)
 
@@ -80,9 +80,9 @@ Prepare analysis of standardized test data to provide insight into performance t
 
 ![School District Metrics](Resources/Images/msda_DistrictSummary.png)
 
-- Summary by School
+- School Summary
 
-![School Summary Metrics](Resources/Images/msda_SchoolSummary.png)
+![School Summary](Resources/Images/msda_SchoolSummary.png)
 
 - Top 5 Performing Schools
 
@@ -115,20 +115,21 @@ Prepare analysis of standardized test data to provide insight into performance t
 
 ## District Analysis Results
 
-- The removal of the ninth grade reading and math grades at Thomas High School resulted in  the following observations:
-    - School District Summary
-    - Summary by School
-    - In general, it appears that removing the grades had minimal impact on the results. The 461 students that had their grades removed represented 1.2% of all students in our data set.
-    - The following results were observed after reviewing the comparative output reports shown above:
-      - The math and reading scores by grade were ...
-      - Scores by school spending were ...
-      - Scores by school size ...
-      - Scores by school type ...
+- The removal of the ninth grade reading and math grades at THS resulted in the following observations:
+    - For the School District Summary, the overall passing percentage moved down slightly by 0.1%
+    - In respect to the School Summary, the overall passing percentage moved down by 0.3% for Thomas High School
+    - Thomas High School was in the #2 position of top ranked schools in the original analysis and maintained that same position in the modified analysis. The overall ranking was reduced by 0.3% comparatively.
+    - The following results were observed after reviewing the comparative reports:
+      - The math and reading scores by grade showed no observable changes
+      - Scores by school spending showed no observable changes
+      - Scores by school size showed no observable changes
+      - Scores by school type showed no observable changes
 
 ## District Analysis Summary
 
-- Four disctinct changes observed by the removing the ninth grade scores included:
-  - Math and Reading scores went up ...
-  - Scores by School size were unchanged ...
-  - item 3 was observed ...
-  - item 4 was observed ...
+- In general, the 461 grade nine students from THS whose marks were removed from the dataset represented 1.2% of all students in the district. The analysis at the school and district level produced results that indicated the overall performance of THS was reduced slightly. when we looked at the condensed scoring reports no changes were observed. 
+- The following conclusions can be drawn from the analysis:
+  - The performance of THS overall was reduced by 0.3%
+  - Scores by school spending, size and type remained exactly the same
+  - For the entire District the overall passing decreased by 0.1%
+  - At the school level the overall passing percentage decreased by 0.3%
