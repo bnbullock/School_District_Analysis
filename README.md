@@ -36,59 +36,59 @@ Additionally, we are asked to prepare the same statistics above with marks for G
 
 ## Baseline Analaysis of all Schools in the District
 
--School District Metrics
+- School District Metrics
 
--School Summary Metrics
+- School Summary Metrics
 
--Top 5 Performing Schools
+- Top 5 Performing Schools
 
 ![Top Five Schools by Passing Rate](Resources/Images/sda_top5.png)
 
--Bottom 5 Performing Schools
+- Bottom 5 Performing Schools
 
 ![Bottom Five Schools by Passing Rate](Resources/Images/sda_bottom5.png)
 
--Average Math score for each grade by School
+- Average Math score for each grade by School
 
--Average Reading score for each grade by School
+- Average Reading score for each grade by School
 
--Scores by School Spending per Student
+- Scores by School Spending per Student
 
--Scores by School Size
+- Scores by School Size
 
--Scores by School Type
+- Scores by School Type
 
 ## Modified Analaysis with the removal of Thomas High School grade 9 student marks
 
--Thomas High School Student marks removed
+- Thomas High School Student marks removed
 
--School District Metrics
+- School District Metrics
 
--School Summary Metrics
+- School Summary Metrics
 
--Top 5 Performing Schools
+- Top 5 Performing Schools
 
 ![Top Five Schools by Passing Rate](Resources/Images/msda_top5.png)
 
--Bottom 5 Performing Schools
+- Bottom 5 Performing Schools
 
 ![Bottom Five Schools by Passing Rate](Resources/Images/msda_bottom5.png)
 
--Average Math score for each grade by School
+- Average Math score for each grade by School
 
--Average Reading score for each grade by School
+- Average Reading score for each grade by School
 
--Scores by School Spending per Student
+- Scores by School Spending per Student
 
--Scores by School Size
+- Scores by School Size
 
--Scores by School Type
+- Scores by School Type
 
 
 ## District Analysis Results
 
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data
+- There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data
 
 ## District Analysis Summary
 
--There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced
+- There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced
