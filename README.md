@@ -1,7 +1,7 @@
 # School District Data Analysis
 
 ## Project Overview
-Prepare analysis of standardized test date to provide insight into performance trends and patterns within a school district. At the school and district level, the results will be used for discussions and strategic decisions. The analysis will further assist the school board and superintendant in making decisions regarding school budgets and priorities.
+Prepare analysis of standardized test data to provide insight into performance trends and patterns within a school district. At the school and district level, the results will be used for discussions and strategic decisions. The analysis will further assist the school board and superintendant in making decisions regarding school budgets and priorities.
 
 ## School District Analysis requirements:
 1. Snapshot of the school district's key metrics
@@ -36,81 +36,81 @@ Additionally, we are asked to prepare the same statistics above with marks for G
 
 ### Baseline Analysis of all Schools in the District
 
-**School District Metrics**
+-School District Metrics
 
 ![School District Metrics](Resources/Images/sda_DistrictSummary.png)
 
-**School Summary Metrics**
+-School Summary Metrics
 
 ![School Summary Metrics](Resources/Images/sda_SchoolSummary.png)
 
-**Top 5 Performing Schools**
+-Top 5 Performing Schools
 
 ![Top Five Schools by Passing Rate](Resources/Images/sda_top5.png)
 
-**Bottom 5 Performing Schools**
+-Bottom 5 Performing Schools
 
 ![Bottom Five Schools by Passing Rate](Resources/Images/sda_bottom5.png)
 
-**Average Math score for each grade by School**
+-Average Math score for each grade by School
 
 ![Average Math by School](Resources/Images/sda_AvgMath.png)
 
-**Average Reading score for each grade by School**
+-Average Reading score for each grade by School
 
 ![Average Reading by School](Resources/Images/sda_AvgReading.png)
 
-**Scores by School Spending per Student**
+-Scores by School Spending per Student
 
 ![Scores Spending per student](Resources/Images/sda_ScoresSpending.png)
 
-**Scores by School Size**
+-Scores by School Size
 
 ![Scores by School Size](Resources/Images/sda_ScoresbySize.png)
 
-**Scores by School Type**
+-Scores by School Type
 
 ![Scores by School Type](Resources/Images/sda_ScoresbyType.png)
 
 ### Modified Analysis with the removal of Thomas High School grade 9 student marks
 
-**Thomas High School Student marks removed**
+-Thomas High School Student marks removed
 
 ![Change Grades to Nans](Resources/Images/msda_StudentNans.png)
 
-**School District Metrics**
+-School District Metrics
 
 ![School District Metrics](Resources/Images/msda_DistrictSummary.png)
 
-**School Summary Metrics**
+-School Summary Metrics
 
 ![School Summary Metrics](Resources/Images/msda_SchoolSummary.png)
 
-**Top 5 Performing Schools**
+-Top 5 Performing Schools
 
 ![Top Five Schools by Passing Rate](Resources/Images/msda_top5.png)
 
-**Bottom 5 Performing Schools**
+-Bottom 5 Performing Schools
 
 ![Bottom Five Schools by Passing Rate](Resources/Images/msda_bottom5.png)
 
-**Average Math score for each grade by School**
+-Average Math score for each grade by School
 
 ![Average Math by School](Resources/Images/msda_AvgMath.png)
 
-**Average Reading score for each grade by School**
+-Average Reading score for each grade by School
 
 ![Average Reading by School](Resources/Images/msda_AvgReading.png)
 
-**Scores by School Spending per Student**
+-Scores by School Spending per Student
 
 ![Scores Spending per student](Resources/Images/msda_ScoresSpending.png)
 
-**Scores by School Size**
+-Scores by School Size
 
 ![Scores by School Size](Resources/Images/msda_ScoresbySize.png)
 
-**Scores by School Type**
+-Scores by School Type
 
 ![Scores by School Type](Resources/Images/msda_ScoresbyType.png)
 
