@@ -135,4 +135,3 @@ It has also come to the attention of the school board that math and reading grad
   - At the school level the overall passing percentage decreased by 0.3%
   - As the #2 top ranked school, the performance of THS overall passing percentage was reduced by 0.3%
   - Scores by school spending, grade, size and type remained exactly the same
- 
