@@ -131,7 +131,7 @@ It has also come to the attention of the school board that math and reading grad
 
 - In general, the 461 grade nine students from THS whose marks were removed from the data set represented 1.2% of all students in the district. This small group of students affected the analysis at the school and district level and produced results that indicated the overall metrics were reduced by 0.3% at the district, school and performance levels. When we reviewed the different scoring reports, no impacts were observed. 
 - The following conclusions can be drawn from the analysis with THS grade nine students removed:
-  - For the entire district summary the overall passing percentage decreased by 0.3%
+  - For the entire district the overall passing percentage decreased by 0.3%
   - At the school level the overall passing percentage decreased by 0.3%
   - As the #2 top ranked school, the performance of THS overall passing percentage was reduced by 0.3%
   - Scores by school spending, grade, size and type remained exactly the same
