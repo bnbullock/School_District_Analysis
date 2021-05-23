@@ -117,9 +117,9 @@ Prepare analysis of standardized test data to provide insight into performance t
 
 - The removal of the ninth grade reading and math grades at THS resulted in the following observations:
     - For the School District Summary, the overall passing percentage moved down slightly by 0.1%
-    - In respect to the School Summary, the overall passing percentage moved down by 0.3% for Thomas High School
-    - Thomas High School was in the #2 position of top ranked schools in the original analysis and maintained that same position in the modified analysis. The overall ranking was reduced by 0.3% comparatively.
-    - The following results were observed after reviewing the comparative reports:
+    - For the School Summary, the overall passing percentage moved down by 0.3% for THS
+    - THS was in the #2 position of top ranked schools in the original analysis and maintained that same position in the modified analysis. The overall ranking was reduced by 0.3% comparatively.
+    - The following results were observed after reviewing the scoring reports:
       - The math and reading scores by grade showed no observable changes
       - Scores by school spending showed no observable changes
       - Scores by school size showed no observable changes
@@ -127,9 +127,9 @@ Prepare analysis of standardized test data to provide insight into performance t
 
 ## District Analysis Summary
 
-- In general, the 461 grade nine students from THS whose marks were removed from the dataset represented 1.2% of all students in the district. The analysis at the school and district level produced results that indicated the overall performance of THS was reduced slightly. when we looked at the condensed scoring reports no changes were observed. 
+- In general, the 461 grade nine students from THS whose marks were removed from the dataset represented 1.2% of all students in the district. The analysis at the school and district level produced results that indicated the overall performance of THS was reduced slightly. When we reviewed the condensed scoring reports, no changes were observed. 
 - The following conclusions can be drawn from the analysis:
   - The performance of THS overall was reduced by 0.3%
-  - Scores by school spending, size and type remained exactly the same
+  - Scores by school spending, grade, size and type remained exactly the same
   - For the entire District the overall passing decreased by 0.1%
   - At the school level the overall passing percentage decreased by 0.3%
