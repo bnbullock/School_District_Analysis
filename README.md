@@ -1,7 +1,7 @@
 # School District Data Analysis
 
 ## Project Overview
-Prepare analysis of standardized test data to provide insight into performance trends and patterns within a school district. At the school and district level, the results will be used for discussions and strategic decisions. The analysis will further assist the school board and superintendant in making decisions regarding school budgets and priorities.
+Prepare analysis of standardized test data to provide insight into performance trends and patterns within a school district. At the school and district level, the results will be used for discussions and strategic decisions. The analysis will further assist the school board and superintendant in making decisions regarding school budgets and priorities. It has also come to the attention of the school board that math and reading grades may have been altered in the source file for grade nine students at Thomas High School. As such, we have been asked to perform the school district analysis as originally planned and also a second analysis with math and reading grades for grade nine removed for that specific school. A comparative report will be provided to determine the affect on the overall analysis.  
 
 ## School District Analysis requirements:
 1. Snapshot of the school district's key metrics
@@ -14,9 +14,7 @@ Prepare analysis of standardized test data to provide insight into performance t
 8. School performance based on school size
 9. School performance based on the type of school
 
-Additionally, we are asked to prepare the same statistics above with marks for Grade 9 students at **Thomas High School** removed due to a problem with academic honesty. We will then run the analysis again and compare the results.
-
-## Modified School District Analysis requirements:
+## Modified School District Analysis with 9th grade marks removed, requirements:
 1. Replace ninth grade reading and math scores for Thomas High School
 2. Snapshot of the school district's key metrics
 3. Overview of the key metrics for each school
@@ -36,11 +34,11 @@ Additionally, we are asked to prepare the same statistics above with marks for G
 
 ### Baseline Analysis of all Schools in the District
 
-- School District Metrics
+- School District Summary
 
 ![School District Metrics](Resources/Images/sda_DistrictSummary.png)
 
-- School Summary Metrics
+- Summary by School
 
 ![School Summary Metrics](Resources/Images/sda_SchoolSummary.png)
 
@@ -78,11 +76,11 @@ Additionally, we are asked to prepare the same statistics above with marks for G
 
 ![Change Grades to Nans](Resources/Images/msda_StudentNans.png)
 
-- School District Metrics
+- School District Summary
 
 ![School District Metrics](Resources/Images/msda_DistrictSummary.png)
 
-- School Summary Metrics
+- Summary by School
 
 ![School Summary Metrics](Resources/Images/msda_SchoolSummary.png)
 
@@ -117,8 +115,20 @@ Additionally, we are asked to prepare the same statistics above with marks for G
 
 ## District Analysis Results
 
-- There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data
+- The removal of the ninth grade reading and math grades at Thomas High School resulted in  the following observations:
+    - School District Summary
+    - Summary by School
+    - In general, it appears that removing the grades had minimal impact on the results. The 461 students that had their grades removed represented 1.2% of all students in our data set.
+    - The following results were observed after reviewing the comparative output reports shown above:
+      - The math and reading scores by grade were ...
+      - Scores by school spending were ...
+      - Scores by school size ...
+      - Scores by school type ...
 
 ## District Analysis Summary
 
-- There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced
+- Four disctinct changes observed by the removing the ninth grade scores included:
+  - Math and Reading scores went up
+  - Scores by School size were unchanged
+  - item 3 was observed
+  - item 4 was observed
